@@ -28,10 +28,7 @@ public:
 		int s = 0, cnt = 1;
 		for (auto &L : D) {
 			s += L;
-			if (s > X) {
-				cnt++;
-				s = 0;
-			}
+			if (s > X) cnt+, s = 0;
 		}
 		return cnt;
 	}
