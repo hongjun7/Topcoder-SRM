@@ -13,7 +13,7 @@ Problem Archive : https://community.topcoder.com/tc?module=ProblemArchive
 Round Overview : https://community.topcoder.com/stat?c=round_overview
 
 Solutions
-1) Old Rounds : https://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis          
-2) Recent Rounds : https://www.topcoder.com/community/data-science/data-science-editorials/
+* Old Rounds : https://apps.topcoder.com/wiki/display/tc/Algorithm+Problem+Set+Analysis          
+* Recent Rounds : https://www.topcoder.com/community/data-science/data-science-editorials/
 
 Division Summary : https://competitiveprogramming.info/topcoder/srm
